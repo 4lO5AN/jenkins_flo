@@ -1,11 +1,10 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NUnit.Framework;
 using JenkinsTP;
 
 namespace TestNunit
 {
-    [TestClass]
+    [TestFixture]
     public class UnitTest1
     {
         [Test]
