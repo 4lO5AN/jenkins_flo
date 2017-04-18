@@ -2,6 +2,7 @@
 using NUnit.Framework;
 using JenkinsTP;
 
+[assembly: CLSCompliant(true)]
 namespace TestNunit
 {
     [TestFixture]

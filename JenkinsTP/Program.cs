@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+[assembly: CLSCompliant(true)]
 namespace JenkinsTP
 {
-    public class Program
+    public static class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
         }
 
