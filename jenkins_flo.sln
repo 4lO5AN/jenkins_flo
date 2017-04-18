@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsTP", "JenkinsTP\Jenk
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{508226BE-FF85-4BF7-8C62-887052D471C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesNunit", "TesNunit\TesNunit.csproj", "{78E276E2-1A9C-43DC-9FD0-67E9C84B45D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,14 @@ Global
 		{508226BE-FF85-4BF7-8C62-887052D471C3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{508226BE-FF85-4BF7-8C62-887052D471C3}.Release|x86.ActiveCfg = Release|Any CPU
 		{508226BE-FF85-4BF7-8C62-887052D471C3}.Release|x86.Build.0 = Release|Any CPU
+		{78E276E2-1A9C-43DC-9FD0-67E9C84B45D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E276E2-1A9C-43DC-9FD0-67E9C84B45D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E276E2-1A9C-43DC-9FD0-67E9C84B45D0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{78E276E2-1A9C-43DC-9FD0-67E9C84B45D0}.Debug|x86.Build.0 = Debug|Any CPU
+		{78E276E2-1A9C-43DC-9FD0-67E9C84B45D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E276E2-1A9C-43DC-9FD0-67E9C84B45D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E276E2-1A9C-43DC-9FD0-67E9C84B45D0}.Release|x86.ActiveCfg = Release|Any CPU
+		{78E276E2-1A9C-43DC-9FD0-67E9C84B45D0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
