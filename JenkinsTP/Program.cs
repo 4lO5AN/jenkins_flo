@@ -20,7 +20,7 @@ namespace JenkinsTP
             return a / b;
         }
   
-        static void Main()
+        private static void Main()
         {
         }
     }
