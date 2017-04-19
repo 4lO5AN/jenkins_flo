@@ -5,15 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 
 [assembly: CLSCompliant(true)]
-namespace JenkinsTP
 
+namespace JenkinsTP
 {
     public static class Program
     {
-        static void Main()
-        {
-        }
-
         public static int Add(int a, int b)
         {
             return a + b;
@@ -22,6 +18,10 @@ namespace JenkinsTP
         public static int Divider(int a, int b)
         {
             return a / b;
+        }
+  
+        static void Main()
+        {
         }
     }
 }
